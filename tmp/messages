@@ -1,0 +1,172 @@
+Dec 31 17:02:31 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 279) exited. Scheduling for restart.
+Dec 31 17:02:31 uclibc user.info init: process '/usr/bin/tail -f /var/log/messages' (pid 280) exited. Scheduling for restart.
+Dec 31 17:02:31 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Dec 31 17:02:31 uclibc user.info init: starting pid 282, tty '/dev/tty3': '/usr/bin/tail -f /var/log/messages'
+Dec 31 17:02:33 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 281) exited. Scheduling for restart.
+Dec 31 17:02:34 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Dec 31 17:02:35 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 283) exited. Scheduling for restart.
+Dec 31 17:02:35 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Dec 31 17:02:36 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 284) exited. Scheduling for restart.
+Dec 31 17:02:36 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Dec 31 17:02:37 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 285) exited. Scheduling for restart.
+Dec 31 17:02:37 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Dec 31 17:02:38 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 286) exited. Scheduling for restart.
+Dec 31 17:02:39 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:40 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 287) exited. Scheduling for restart.
+Jan  1 00:02:40 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:41 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 288) exited. Scheduling for restart.
+Jan  1 00:02:41 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:42 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 289) exited. Scheduling for restart.
+Jan  1 00:02:43 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:44 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 290) exited. Scheduling for restart.
+Jan  1 00:02:44 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:45 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 291) exited. Scheduling for restart.
+Jan  1 00:02:45 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:46 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 292) exited. Scheduling for restart.
+Jan  1 00:02:46 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:47 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 293) exited. Scheduling for restart.
+Jan  1 00:02:48 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:49 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 294) exited. Scheduling for restart.
+Jan  1 00:02:49 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:50 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 295) exited. Scheduling for restart.
+Jan  1 00:02:50 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:51 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 296) exited. Scheduling for restart.
+Jan  1 00:02:51 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:52 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 297) exited. Scheduling for restart.
+Jan  1 00:02:53 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:54 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 298) exited. Scheduling for restart.
+Jan  1 00:02:54 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:55 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 299) exited. Scheduling for restart.
+Jan  1 00:02:56 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:57 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 300) exited. Scheduling for restart.
+Jan  1 00:02:57 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:58 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 301) exited. Scheduling for restart.
+Jan  1 00:02:58 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:02:59 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 302) exited. Scheduling for restart.
+Jan  1 00:02:59 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:00 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 303) exited. Scheduling for restart.
+Jan  1 00:03:00 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:01 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 304) exited. Scheduling for restart.
+Jan  1 00:03:01 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:02 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 305) exited. Scheduling for restart.
+Jan  1 00:03:03 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:04 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 306) exited. Scheduling for restart.
+Jan  1 00:03:04 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:05 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 307) exited. Scheduling for restart.
+Jan  1 00:03:05 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:06 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 308) exited. Scheduling for restart.
+Jan  1 00:03:06 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:08 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 309) exited. Scheduling for restart.
+Jan  1 00:03:08 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:09 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 310) exited. Scheduling for restart.
+Jan  1 00:03:09 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:10 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 311) exited. Scheduling for restart.
+Jan  1 00:03:11 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:12 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 312) exited. Scheduling for restart.
+Jan  1 00:03:12 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:13 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 313) exited. Scheduling for restart.
+Jan  1 00:03:14 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:15 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 314) exited. Scheduling for restart.
+Jan  1 00:03:15 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:17 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 315) exited. Scheduling for restart.
+Jan  1 00:03:17 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:18 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 316) exited. Scheduling for restart.
+Jan  1 00:03:18 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:20 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 317) exited. Scheduling for restart.
+Jan  1 00:03:20 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:22 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 318) exited. Scheduling for restart.
+Jan  1 00:03:22 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:23 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 319) exited. Scheduling for restart.
+Jan  1 00:03:23 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:24 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 320) exited. Scheduling for restart.
+Jan  1 00:03:25 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:26 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 321) exited. Scheduling for restart.
+Jan  1 00:03:26 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:27 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 322) exited. Scheduling for restart.
+Jan  1 00:03:27 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:28 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 323) exited. Scheduling for restart.
+Jan  1 00:03:28 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:29 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 324) exited. Scheduling for restart.
+Jan  1 00:03:29 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:31 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 325) exited. Scheduling for restart.
+Jan  1 00:03:31 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:32 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 326) exited. Scheduling for restart.
+Jan  1 00:03:32 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:33 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 327) exited. Scheduling for restart.
+Jan  1 00:03:33 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:34 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 328) exited. Scheduling for restart.
+Jan  1 00:03:34 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:35 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 329) exited. Scheduling for restart.
+Jan  1 00:03:35 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:36 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 330) exited. Scheduling for restart.
+Jan  1 00:03:36 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:37 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 331) exited. Scheduling for restart.
+Jan  1 00:03:38 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:39 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 332) exited. Scheduling for restart.
+Jan  1 00:03:39 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:40 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 333) exited. Scheduling for restart.
+Jan  1 00:03:40 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:41 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 334) exited. Scheduling for restart.
+Jan  1 00:03:41 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:42 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 335) exited. Scheduling for restart.
+Jan  1 00:03:42 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:43 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 336) exited. Scheduling for restart.
+Jan  1 00:03:43 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:44 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 337) exited. Scheduling for restart.
+Jan  1 00:03:44 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:46 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 338) exited. Scheduling for restart.
+Jan  1 00:03:46 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:47 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 339) exited. Scheduling for restart.
+Jan  1 00:03:47 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:48 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 340) exited. Scheduling for restart.
+Jan  1 00:03:48 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:49 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 341) exited. Scheduling for restart.
+Jan  1 00:03:50 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:51 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 342) exited. Scheduling for restart.
+Jan  1 00:03:51 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:52 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 343) exited. Scheduling for restart.
+Jan  1 00:03:53 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:54 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 344) exited. Scheduling for restart.
+Jan  1 00:03:54 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:55 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 345) exited. Scheduling for restart.
+Jan  1 00:03:56 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:57 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 346) exited. Scheduling for restart.
+Jan  1 00:03:57 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:03:59 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 347) exited. Scheduling for restart.
+Jan  1 00:03:59 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:01 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 348) exited. Scheduling for restart.
+Jan  1 00:04:01 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:02 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 349) exited. Scheduling for restart.
+Jan  1 00:04:02 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:04 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 350) exited. Scheduling for restart.
+Jan  1 00:04:04 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:05 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 351) exited. Scheduling for restart.
+Jan  1 00:04:05 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:06 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 352) exited. Scheduling for restart.
+Jan  1 00:04:07 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:08 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 353) exited. Scheduling for restart.
+Jan  1 00:04:08 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:09 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 354) exited. Scheduling for restart.
+Jan  1 00:04:10 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:11 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 355) exited. Scheduling for restart.
+Jan  1 00:04:11 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:12 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 356) exited. Scheduling for restart.
+Jan  1 00:04:12 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:14 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 357) exited. Scheduling for restart.
+Jan  1 00:04:14 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:15 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 358) exited. Scheduling for restart.
+Jan  1 00:04:15 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:16 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 359) exited. Scheduling for restart.
+Jan  1 00:04:16 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:18 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 360) exited. Scheduling for restart.
+Jan  1 00:04:18 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:19 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 361) exited. Scheduling for restart.
+Jan  1 00:04:19 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:20 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 362) exited. Scheduling for restart.
+Jan  1 00:04:20 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:21 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 363) exited. Scheduling for restart.
+Jan  1 00:04:21 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:22 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 364) exited. Scheduling for restart.
+Jan  1 00:04:22 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
+Jan  1 00:04:24 uclibc user.info init: process '/sbin/getty -L ttyS0 115200 vt100' (pid 365) exited. Scheduling for restart.
+Jan  1 00:04:24 uclibc user.info init: can't open /dev/ttyS0: No such file or directory
